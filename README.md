@@ -1,4 +1,7 @@
 # Criando seu jogo de memória estilo Genius
+
+###  BootCamp - Órbi Web Games Developer
+
 DESCRIÇÃO: Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, 
 sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.  
 
@@ -26,7 +29,7 @@ https://tiagomerc.github.io/Jogo-Genesis---MODIFICADO/
 
 Alterações na estrutura da página e na estilização
 
- - Com a inserção de um título <h1> 
+ - Com a inserção de um título "<h1>" 
 
  - Informações sobre o jogo e instruções
 
@@ -36,7 +39,5 @@ Alterações na estrutura da página e na estilização
 
 
 ![Genesis, Print1](/imgs/print1.png)
-
-
 
 ![Genesis, Print2](/imgs/print2.png)
