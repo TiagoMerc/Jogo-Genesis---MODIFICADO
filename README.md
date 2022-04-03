@@ -7,7 +7,7 @@ sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 
 HTML, CSS e JavaScript | Front-End Básico 
 
-**ESPECIALISTA:** [Gabriela Pinheiro](https://github.com/SpruceGabriela).
+**ESPECIALISTA:** [Gabriela Pinheiro](https://github.com/SpruceGabriela)
 _____________________________________________________
 
 ### Vamos jogar?
@@ -33,7 +33,7 @@ Foi feito alterações na estrutura da página e na estilização
 
  - Informações sobre o jogo e instruções
 
- - Criando referência/rodapé sobre o projeto com <footer>, organizei os elementos, inserir links para o acesso ao LinkedIn da instrutora, repositórios que ao clicar neles o usuário é direcionado para outra página (target="_blanck"). 
+ - Criando referência/rodapé sobre o projeto com (footer), organizei os elementos, inserir links para o acesso ao LinkedIn da instrutora, repositórios que ao clicar neles o usuário é direcionado para outra página (target="_blanck"). 
 
 ### Prints:
 
