@@ -23,4 +23,20 @@ _____________________________________________________
 
 Acesse o link para jogar: 
 https://tiagomerc.github.io/Jogo-Genesis---MODIFICADO/ 
+
 Alterações na estrutura da página e na estilização
+
+ - Com a inserção de um título <h1> 
+
+ - Informações sobre o jogo e instruções
+
+ - Criando referência/rodapé sobre o projeto com <footer>, organizei os elementos, inserir links para o acesso ao LinkedIn da instrutora, repositórios que ao clicar neles o usuário é direcionado para outra página (target="_blanck"). 
+
+### Prints:
+
+
+![Genesis, Print1](/imgs/print1.png)
+
+
+
+![Genesis, Print2](/imgs/print2.png)
