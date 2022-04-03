@@ -18,3 +18,9 @@ https://github.com/TiagoMerc/Criando-seu-jogo-de-mem-ria-estilo-Genius.git
 _____________________________________________________
 
 ### Detalhes da modificação: 
+
+#### Jogo modificado:
+
+Acesse o link para jogar: 
+https://tiagomerc.github.io/Jogo-Genesis---MODIFICADO/ 
+Alterações na estrutura da página e na estilização

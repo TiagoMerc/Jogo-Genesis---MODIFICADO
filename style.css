@@ -51,16 +51,61 @@ body {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 36px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   margin-top: 42px;
   padding-left: 40px;
 }
 
 .reference {
-  font-size: 24px;
+  font-size: 32px;
+  font-family: 'Courier New', Courier, monospace;
   text-align: center;
-  padding: auto;
+  padding: 12px;
   margin: 24px;
-  background-color: rgb(60, 78, 126);
+  padding-top: 34px;
+  background-color: rgb(91, 91, 173);
+  line-height: 18px;
 }
+
+  #description {
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+  }
+
+  p {
+    font-size: 12px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: justify;
+
+  }
+
+  #repositorio {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
+
+  a {
+  font-size: 12px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: right;
+  text-decoration: none; /*Tirar o sublinhado do texto*/
+  }
+
+  h3 {
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+
+  #play {
+    background-color: rgb(91, 91, 173);
+    text-align: justify;
+    padding-left: 20px;
+    padding-top: 8px;
+    padding: 20px;
+    opacity: 0.9;
+  }
